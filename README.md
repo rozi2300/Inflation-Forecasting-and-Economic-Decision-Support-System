@@ -41,7 +41,7 @@ This repository contains the source code, data analysis, and documentation for t
 
 ### Clone the repository:
 
-git clone [https://github.com/your-username/inflation-forecasting.git](https://github.com/your-username/inflation-forecasting.git)
+git clone [https://github.com/rozi2300/inflation-forecasting.git](https://github.com/your-username/inflation-forecasting.git)
 
 
 pip install -r requirements.txt
